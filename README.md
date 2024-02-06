@@ -29,7 +29,17 @@ The 3D Immersive Displays project aims to provide an easily accessible and immer
 - 3D Model Crafting: Detailed representation of 3D objects.
 - Device Creation: Designed and developed the setup for devices.
 
-![Team Photo](https://github.com/Santiago-Mersch/3D-Immersive-Display/blob/main/Images/foto.jpg)
-
 ## Awards
 This project has been recognized with the **Outstanding Performance Award**.
+
+![Team Photo](https://github.com/Santiago-Mersch/3D-Immersive-Display/blob/main/Images/foto2.jpg)
+
+## Photos 
+
+![Team Photo](https://github.com/Santiago-Mersch/3D-Immersive-Display/blob/main/Images/burger.png)
+![Team Photo](https://github.com/Santiago-Mersch/3D-Immersive-Display/blob/main/Images/planes.png)
+![Team Photo](https://github.com/Santiago-Mersch/3D-Immersive-Display/blob/main/Images/tents.png)
+![Team Photo](https://github.com/Santiago-Mersch/3D-Immersive-Display/blob/main/Images/foto.jpg)
+
+
+
