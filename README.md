@@ -1,37 +1,35 @@
-# 3D-Immersive-Display
+# 3D Immersive Display
 
-### This is Capstone project for Universidad Politecnica Taiwan Paraguay (UPTP)
+## Capstone Project for Universidad Politecnica Taiwan Paraguay (UPTP)
+### Advisor: Tzung-Han Lin (林宗翰)
 
 ### Team Members
-Santiago Mersch
-Kevin da Rosa
-Sebastian Santacruz
+- Santiago Mersch
+- Kevin da Rosa
+- Sebastian Santacruz
 
-### Abstract
+## Abstract
 
-With our 3D Immersive Displays project, our goal is to create an easily accessible and immersive viewing experience using standard PC monitors, addressing the current lack of straightforward solutions for non-specialized hardware.
-To accomplish this task, we leverage a powerful combination of tools, including Blender for 3D realistic rendering and animation creation, OpenCV for image warping and processing, and Python for run-time video replay, along with various miscellaneous resources like color calibration, the display device creation, 3D alignment.
+The 3D Immersive Displays project aims to provide an easily accessible and immersive viewing experience using standard PC monitors, addressing the current lack of straightforward solutions for non-specialized hardware. Leveraging a powerful combination of tools including Blender for 3D realistic rendering and animation creation, OpenCV for image warping and processing, and Python for run-time video replay, along with various miscellaneous resources like color calibration and display device creation, this project pushes the boundaries of immersive display technology.
 
-### Contribution
-#### Santiago :
-Video warping: Developed a python program that generates the monitors output.
-Video player: Developed a customized python program that plays three videos at the same time.
+## Contributions
+### Santiago:
+- Video Warping: Developed a Python program that generates output for monitors.
+- Video Player: Developed a customized Python program that plays three videos simultaneously.
 
-#### Kevin : 
-User experience optimization: Focal points of interest for user.
-Blender immersive content creation: Set up of subjective environment.
-3D Model crafting:  Correct models for environment.
-Device crafting: Set up of displays.
+### Kevin:
+- User Experience Optimization: Defined focal points of interest for users.
+- Blender Immersive Content Creation: Set up subjective environment.
+- 3D Model Crafting: Created accurate models for the environment.
+- Device Crafting: Set up displays effectively.
 
-#### Sebastian: 
-User experience optimization: Create attraction for user-device product
-Blender immersive content creation: Model-scene modeling.	
-3D Model crafting:  ⁠Detail representation of 3d objects.
-Device creation: ⁠Design and development of device set up.
+### Sebastian:
+- User Experience Optimization: Developed strategies to attract users to the product.
+- Blender Immersive Content Creation: Created models for scenes.
+- 3D Model Crafting: Detailed representation of 3D objects.
+- Device Creation: Designed and developed the setup for devices.
 
+![Team Photo](https://github.com/Santiago-Mersch/3D-Immersive-Display/blob/main/Images/foto.jpg)
 
-
-
-![alt text](https://github.com/Santiago-Mersch/3D-Immersive-Display/blob/main/Images/foto.jpg)
-
-
+## Awards
+This project has been recognized with the **Outstanding Performance Award**.
